@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="upei.project.Strategy.StrategyTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2024-12-06T02:57:05" hostname="Layos-MacBook-Air.local" time="0.014">
+  <properties/>
+  <testcase name="testCollectorStrategy()" classname="upei.project.Strategy.StrategyTest" time="0.008"/>
+  <testcase name="testAggresivveBuyerStrategy()" classname="upei.project.Strategy.StrategyTest" time="0.001"/>
+  <testcase name="testCautiousSaverStrategy()" classname="upei.project.Strategy.StrategyTest" time="0.001"/>
+  <testcase name="testDisruptiveStrategy()" classname="upei.project.Strategy.StrategyTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
